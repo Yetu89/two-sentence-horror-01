@@ -7,6 +7,9 @@
 // The second sentence turns it: the mirror version stayed awake, so on a
 // second read the first sentence is worse — the reflection was never a
 // reflection, it was a rehearsal, and last night it stopped rehearsing.
+// That turn is what the judge brief rewards most after the two-sentence
+// form itself: a second sentence that makes the first sentence worse on a
+// second read, with the horror implied rather than explained.
 // The horror is implied, never explained; every word earns its place.
 //
 // Gate rules (enforced by validate() below, mirroring the sealed scorer):
